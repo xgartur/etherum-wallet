@@ -1,0 +1,19 @@
+{
+  "name": "etherum-wallet",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:4rtur8/etherum-wallet.git",
+  "author": "<arturo8gll@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.4.1",
+    "buefy": "^0.9.13",
+    "ethers": "^5.5.2",
+    "vuex": "^3.6.2",
+    "web3": "^1.6.1"
+  },
+  "devDependencies": {
+    "pug": "^3.0.2",
+    "pug-plain-loader": "^1.1.0"
+  }
+}
